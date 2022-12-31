@@ -1,0 +1,7539 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "newYork",
+		"player1": "bf",
+		"player2": "sarvente",
+		"player3": null,
+		"events": [
+			[
+				2087.5,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sarv dark 2"
+					]
+				]
+			],
+			[
+				2109.375,
+				[
+					[
+						"Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				2175,
+				[
+					[
+						"MoveArrow",
+						"0",
+						"0,0,360,0,0.4"
+					]
+				]
+			],
+			[
+				2181.25,
+				[
+					[
+						"MoveArrow",
+						"1",
+						"0,0,360,0,0.4"
+					]
+				]
+			],
+			[
+				2187.5,
+				[
+					[
+						"MoveArrow",
+						"2",
+						"0,0,360,0,0.4"
+					]
+				]
+			],
+			[
+				2193.75,
+				[
+					[
+						"MoveArrow",
+						"3",
+						"0,0,360,0,0.4"
+					]
+				]
+			],
+			[
+				2381.25,
+				[
+					[
+						"Flash",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				2387.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf wth 1"
+					]
+				]
+			],
+			[
+				2395.3125,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Dripsarv"
+					]
+				]
+			],
+			[
+				2400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				2700,
+				[
+					[
+						"Zoom",
+						"0.65",
+						""
+					]
+				]
+			],
+			[
+				3300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				4500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				4800,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf wth 1"
+					]
+				]
+			],
+			[
+				4809.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				5700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				6900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				7200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf wth 1"
+					]
+				]
+			],
+			[
+				7209.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				8100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				9300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				10500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				11400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf wth 1"
+					]
+				]
+			],
+			[
+				11550,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				11775,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				12009.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				12900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				14100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				15300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				16500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				16800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				17700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				18900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				20100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				21581.25,
+				[
+					[
+						"Flash",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				21590.625,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Dripsarv 2"
+					]
+				]
+			],
+			[
+				21595.3125,
+				[
+					[
+						"Change Character",
+						"gf",
+						"Dripruv"
+					]
+				]
+			],
+			[
+				21600,
+				[
+					[
+						"Zoom",
+						"0.65",
+						""
+					]
+				]
+			],
+			[
+				21609.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				22500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				23700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf wth 1"
+					]
+				]
+			],
+			[
+				24009.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				24900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				26100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				26400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf wth 1"
+					]
+				]
+			],
+			[
+				26409.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				27300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				28500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf wth 1"
+					]
+				]
+			],
+			[
+				28809.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				29700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				30600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf wth 1"
+					]
+				]
+			],
+			[
+				30750,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				30975,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				31200,
+				[
+					[
+						"Zoom",
+						"0.65",
+						""
+					]
+				]
+			],
+			[
+				31209.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				32100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				33300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				33600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				34500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				35700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				36900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				38100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				39300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				40800,
+				[
+					[
+						"Zoom",
+						"0.65",
+						""
+					]
+				]
+			],
+			[
+				40809.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				41400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf wut"
+					]
+				]
+			],
+			[
+				41850,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				42300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				42900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				43200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				44250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				44700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				45600,
+				[
+					[
+						"Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				45609.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				46650,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				47100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				47700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				49050,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				49500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				50400,
+				[
+					[
+						"Zoom",
+						"0.65",
+						""
+					]
+				]
+			],
+			[
+				50409.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				51450,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				51900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				52500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				53850,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				54300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				55200,
+				[
+					[
+						"Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				55209.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				56250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				56700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				57300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				58650,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				59100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Zoom",
+						"0.65",
+						""
+					]
+				]
+			],
+			[
+				60009.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				61050,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				61500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				62100,
+				[
+					[
+						"Screen Shake",
+						"4.3, 0.0080",
+						"4.3, 0.0080"
+					]
+				]
+			],
+			[
+				62109.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				62400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				63450,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				63900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				64200,
+				[
+					[
+						"Lucifer Circle",
+						"1",
+						"4"
+					]
+				]
+			],
+			[
+				64800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				65550,
+				[
+					[
+						"Lucifer Circle",
+						"3",
+						"3"
+					]
+				]
+			],
+			[
+				65681.25,
+				[
+					[
+						"Flash",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				65700,
+				[
+					[
+						"Change Character",
+						"gf",
+						"selever"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Dripsarv 3"
+					]
+				]
+			],
+			[
+				65718.75,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				65812.5,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				65850,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				66300,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				66309.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				66375,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				66525,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				66600,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				66675,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				66750,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				66825,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				66900,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				66909.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				67050,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				67125,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				67350,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				67500,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				67575,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				67800,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				67950,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				68100,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				68175,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				68250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				68325,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				68400,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				68475,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				68550,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				68625,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				68700,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				68709.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				69600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				70200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf boring"
+					]
+				]
+			],
+			[
+				70650,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				71100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				71700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				73050,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				73500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				74400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				75450,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				75900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				76500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				77850,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				77925,
+				[
+					[
+						"Screen Shake",
+						"1.8, 0.0080",
+						"1.8, 0.0080"
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Parents Circle",
+						"1",
+						"4"
+					]
+				]
+			],
+			[
+				78225,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				78375,
+				[
+					[
+						"Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				78862.5,
+				[
+					[
+						"Flash",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				78881.25,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Ruvdaddy"
+					]
+				]
+			],
+			[
+				78900,
+				[
+					[
+						"Change Character",
+						"gf",
+						"Selever_Angry"
+					]
+				]
+			],
+			[
+				79500,
+				[
+					[
+						"Parents Circle",
+						"3",
+						"4"
+					]
+				]
+			],
+			[
+				79725,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				79793.75,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				79800,
+				[
+					[
+						"Zoom",
+						"0.65",
+						""
+					]
+				]
+			],
+			[
+				79837.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf wth 2"
+					]
+				]
+			],
+			[
+				79875,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				79950,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				80100,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				80109.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				80175,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				80250,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				80325,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				80400,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				80475,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				80550,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				80625,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				80700,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				80709.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				80775,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				81300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf wth 2"
+					]
+				]
+			],
+			[
+				81609.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				82500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				83100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				83700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf wth 2"
+					]
+				]
+			],
+			[
+				84009.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				84900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				85500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				86100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf wth 2"
+					]
+				]
+			],
+			[
+				86409.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				87300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				87900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				88350,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				88575,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				88800,
+				[
+					[
+						"Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				88809.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				89700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				90300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				90900,
+				[
+					[
+						"Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				90909.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				91209.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				92100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				92700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				93300,
+				[
+					[
+						"Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				93309.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				93600,
+				[
+					[
+						"Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				93609.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				94500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				94795.3125,
+				[
+					[
+						"Change Character",
+						"gf",
+						"rsch"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Ruvdaddy 2"
+					]
+				]
+			],
+			[
+				94800,
+				[
+					[
+						"Zoom",
+						"0.65",
+						""
+					]
+				]
+			],
+			[
+				95700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				96900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				97500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				98400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				98850,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf wut"
+					]
+				]
+			],
+			[
+				99300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				99900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				100500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				100800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				101700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				102300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				102900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				103200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				103206.25,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf surprised 2"
+					]
+				]
+			],
+			[
+				104100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				104700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				105300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf surprised"
+					]
+				]
+			],
+			[
+				105609.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				106500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				107100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				107550,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				107775,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				108900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				109500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				110100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				110400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				111300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				111900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				112500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				112800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				113700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				114300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				114587.5,
+				[
+					[
+						"Flash",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				114600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"rasazy"
+					],
+					[
+						"Change Character",
+						"gf",
+						"selever"
+					]
+				]
+			],
+			[
+				114900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				116100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				116368.75,
+				[
+					[
+						"Flash",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				116381.25,
+				[
+					[
+						"Change Character",
+						"gf",
+						"selucifer"
+					],
+					[
+						"Change Character",
+						"dad",
+						"madrasazy"
+					]
+				]
+			],
+			[
+				116400,
+				[
+					[
+						"Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				116409.375,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf traumatized"
+					]
+				]
+			],
+			[
+				116418.75,
+				[
+					[
+						"Play Animation",
+						"hit",
+						"BF"
+					]
+				]
+			],
+			[
+				117150,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				117375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				117450,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf etto"
+					]
+				]
+			],
+			[
+				117525,
+				[
+					[
+						"Toggle Trail 2",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				117600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				117675,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				117750,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				117900,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				118050,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				118125,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				118200,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				118350,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				118500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				118575,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				118650,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				118800,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				118875,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				118950,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				119025,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				119100,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				119250,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				119325,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				119400,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				119475,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				119550,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				119700,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				119775,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				119850,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				119925,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				120075,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				120150,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				120225,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				120300,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				120375,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				120450,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				120525,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				120600,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				120675,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				120750,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				120825,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				120900,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				120975,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				121050,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				121125,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				121200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				121275,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				121350,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				121425,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				121500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				121575,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				121650,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				121725,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				121800,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				121875,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				121950,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				122025,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				122100,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				122175,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				122250,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				122325,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				122390.625,
+				[
+					[
+						"Toggle Trail",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				126900,
+				[
+					[
+						"Toggle Trail 2",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				127125,
+				[
+					[
+						"Toggle Trail",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				127175,
+				[
+					[
+						"Flash",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				127190.625,
+				[
+					[
+						"Change Character",
+						"gf",
+						"Dripruv"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Dripsarv 2"
+					]
+				]
+			],
+			[
+				127200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				127275,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				127350,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				127500,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				127650,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				127725,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				127800,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				127950,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				128100,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				128175,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				128250,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				128400,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				128475,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				128550,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				128625,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				128700,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				128850,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				128925,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				129000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				129075,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				129150,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				129300,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				129375,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				129450,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				129525,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				129600,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				129675,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				129750,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				129825,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				129900,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				129975,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				130050,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				130125,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				130200,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				130275,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				130350,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				130425,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				130500,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				130575,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				130650,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				130725,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				130800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				130875,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				130950,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				131025,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				131100,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				131175,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				131250,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				131325,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				131400,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				131475,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				131550,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				131625,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				131700,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				131775,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				131850,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				131925,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				131962.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf traumatized"
+					]
+				]
+			],
+			[
+				131990.625,
+				[
+					[
+						"Toggle Trail",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				134831.25,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf traumatized 2"
+					]
+				]
+			],
+			[
+				136725,
+				[
+					[
+						"Toggle Trail",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				136781.25,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf traumatized"
+					]
+				]
+			],
+			[
+				136800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				136875,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				136950,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				137100,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				137250,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				137325,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				137400,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				137550,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				137700,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				137775,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				137850,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				138075,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				138150,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				138225,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				138300,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				138450,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				138525,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				138600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				138675,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				138750,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				138900,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				138975,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				139050,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				139125,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				139200,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				139275,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				139350,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				139425,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				139500,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				139575,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				139650,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				139725,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				139800,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				139875,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				139950,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				140025,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				140100,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				140175,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				140250,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				140325,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				140400,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				140475,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				140550,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				140625,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				140700,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				140775,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				140850,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				140925,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				141000,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				141075,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				141150,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				141225,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				141300,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				141375,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				141450,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				141487.5,
+				[
+					[
+						"Toggle Trail",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				141525,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				141562.5,
+				[
+					[
+						"Toggle Trail 2",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				141575,
+				[
+					[
+						"Flash",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				141590.625,
+				[
+					[
+						"Change Character",
+						"dad",
+						"rasazy"
+					],
+					[
+						"Change Character",
+						"gf",
+						"selever"
+					]
+				]
+			],
+			[
+				141600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				141750,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				141900,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				142050,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				142200,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				142350,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				142500,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				142650,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				142800,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				142950,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				143100,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				143250,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				143400,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				143550,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				143700,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				143850,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				144150,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				144300,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				144450,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				144600,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				144750,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				144900,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				145050,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				145200,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				145350,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				145500,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				145650,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				145800,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				145950,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				146100,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				146250,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				146325,
+				[
+					[
+						"Toggle Trail 2",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				146375,
+				[
+					[
+						"Flash",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				146390.625,
+				[
+					[
+						"Change Character",
+						"gf",
+						"Ruvdaddy 3"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Dripsarv 4"
+					]
+				]
+			],
+			[
+				146400,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				146409.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				146437.5,
+				[
+					[
+						"Zoom",
+						"0.65",
+						""
+					]
+				]
+			],
+			[
+				146475,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				146550,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				146625,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				146700,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				146775,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				146850,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				146925,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				147000,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				147150,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				147300,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				147450,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				147459.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				147525,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				147600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				147675,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				147900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				147909.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				147975,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				148050,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				148125,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				148200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				148350,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				148500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				148509.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				148650,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				148800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				148809.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				148875,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				148950,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				149025,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				149100,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				149175,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				149250,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				149325,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				149400,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				149550,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				149700,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				149850,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				149859.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				149925,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				150000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				150075,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				150150,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				150225,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				150300,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				150309.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				150450,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				150600,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				150750,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				150900,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				150975,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				151050,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				151125,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				151181.25,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf fail"
+					]
+				]
+			],
+			[
+				151200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				151209.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				151228.125,
+				[
+					[
+						"Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				151275,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				151350,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				151425,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				151950,
+				[
+					[
+						"Zoom",
+						"0.65",
+						""
+					]
+				]
+			],
+			[
+				152071.875,
+				[
+					[
+						"Flash",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				152090.625,
+				[
+					[
+						"Change Character",
+						"gf",
+						"Dripruv"
+					],
+					[
+						"Change Character",
+						"dad",
+						"rsch 2"
+					]
+				]
+			],
+			[
+				152250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				152700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				153300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				154650,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				155100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				155925,
+				[
+					[
+						"Toggle Trail",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				156000,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				156009.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				156075,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				156150,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				156225,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				156300,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				156450,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				156525,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				156600,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				156675,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				156750,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				156900,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				157050,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				157059.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				157200,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				157350,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				157500,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				157509.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				157650,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				157800,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				157950,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				158100,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				158109.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				158250,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				158400,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				158409.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				158475,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				158550,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				158625,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				158700,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				158850,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				158925,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				159000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				159150,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				159300,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				159375,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				159450,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				159459.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				159600,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				159675,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				159750,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				159900,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				159909.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				160050,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				160125,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				160200,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				160350,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				160500,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				160575,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				160650,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				160725,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				160800,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				160809.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				160875,
+				[
+					[
+						"Toggle Trail",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				161850,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				162300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				162900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				163200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				164250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				164700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				165581.25,
+				[
+					[
+						"Flash",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				165600,
+				[
+					[
+						"Change Character",
+						"gf",
+						"Ruvdaddy 3"
+					],
+					[
+						"Change Character",
+						"dad",
+						"rasazy 2"
+					]
+				]
+			],
+			[
+				165609.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				165900,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				166050,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				166200,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				166350,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				166500,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				166650,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				166659.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				166725,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				166800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				166875,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				166950,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				167100,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				167109.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				167250,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				167400,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				167550,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				167700,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				167709.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				167850,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				168009.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				168150,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				168225,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				168300,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				168375,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				168450,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				168600,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				168675,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				168750,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				168825,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				168900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				169050,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				169059.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				169200,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				169350,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				169500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				169509.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				169650,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				169800,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				169950,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				170100,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				170250,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				170400,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				170409.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				170475,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				170550,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				170625,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				171450,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				171900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				172500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				172800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				173850,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				174300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				175187.5,
+				[
+					[
+						"Flash",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				175200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Dripsarv 2"
+					],
+					[
+						"Change Character",
+						"gf",
+						"Dripruv"
+					]
+				]
+			],
+			[
+				175209.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				175425,
+				[
+					[
+						"Toggle Trail",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				175500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				175650,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				175725,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf depressed"
+					]
+				]
+			],
+			[
+				175800,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				175950,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				176100,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				176250,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				176259.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				176325,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				176400,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				176475,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				176550,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				176700,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				176709.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				176775,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				176850,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				177000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				177075,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				177150,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				177300,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				177309.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				177450,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				177600,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				177609.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				177750,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				177900,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				178050,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				178200,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				178350,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				178500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				178650,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				178659.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				178800,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				178950,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				179100,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				179109.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				179250,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				179325,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				179400,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				179475,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				179550,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				179625,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				179700,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				179775,
+				[
+					[
+						"Toggle Trail",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				179850,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				180000,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				180009.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				181050,
+				[
+					[
+						"Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				181500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				182400,
+				[
+					[
+						"Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				182409.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				183581.25,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf angry cry"
+					]
+				]
+			],
+			[
+				183600,
+				[
+					[
+						"Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				183900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.12",
+						"0.02"
+					]
+				]
+			],
+			[
+				184050,
+				[
+					[
+						"Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				184828.125,
+				[
+					[
+						"Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				185625,
+				[
+					[
+						"Zoom",
+						"0.65",
+						""
+					]
+				]
+			],
+			[
+				185990.625,
+				[
+					[
+						"Flash",
+						"0.6",
+						"1"
+					]
+				]
+			],
+			[
+				186000,
+				[
+					[
+						"Play Animation",
+						"gameover",
+						"BF"
+					]
+				]
+			],
+			[
+				186006.25,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.0056",
+						"0.5, 0.01"
+					]
+				]
+			],
+			[
+				186009.375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.18",
+						"0.08"
+					]
+				]
+			],
+			[
+				188100,
+				[
+					[
+						"Play Animation",
+						"gameover loop",
+						"BF"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "ruv",
+		"bpm": 200,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "roasted"
+	}
+}

@@ -1,0 +1,2 @@
+Value 1: 1 = Clockwise, 2 = Counterclockwise, 3 = Remove circle, 4 = Black Bg
+Value 2: The amount of time the circle spins

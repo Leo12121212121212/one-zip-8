@@ -1,0 +1,6 @@
+Cambia la posicion de las flechas basadas en Valores
+Value 1: Flecha (0-3 Enemigo, 4-7 BF)
+Value 2: Valor x,Valor y, rotacion, opacidad (0-1), duracion (SIN ESPACIOS)
+Presets:
+Para centrar flechas del Oponente: 300,0,0,1,1 (del 0 al 3)
+Para centrar flechas del Jugador: -300,0,0,1,1 (del 4 al 7)

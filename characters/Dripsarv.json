@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "dripsarv idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				-100
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "dripsarv left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-71
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "dripsarv down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "dripsarv up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-141
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "dripsarv right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dripsarv",
+	"position": [
+		170,
+		-40
+	],
+	"healthicon": "icon-swag sarv",
+	"flip_x": false,
+	"healthbar_colors": [
+		221,
+		92,
+		153
+	],
+	"camera_position": [
+		-140,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

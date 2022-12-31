@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rasazy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rasazy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rasazy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rasazy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rasazy right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rasazy",
+	"position": [
+		-140,
+		-200
+	],
+	"healthicon": "icon-sel ras",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		120,
+		135
+	],
+	"camera_position": [
+		-160,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

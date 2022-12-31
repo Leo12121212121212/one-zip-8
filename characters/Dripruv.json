@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "dripruv i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-39
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "dripruv l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				-171
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "dripruv d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				0
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "dripruv u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				267,
+				-49
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "dripruv r",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dripruv",
+	"position": [
+		-405,
+		-160
+	],
+	"healthicon": "swagRuv",
+	"flip_x": true,
+	"healthbar_colors": [
+		155,
+		136,
+		176
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

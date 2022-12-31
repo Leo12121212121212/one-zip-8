@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Ruvdaddy idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Ruvdaddy up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Ruvdaddy right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Ruvdaddy left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Ruvdaddy down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ruvdaddy",
+	"position": [
+		-410,
+		-590
+	],
+	"healthicon": "icon-sel kruv",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		140,
+		180
+	],
+	"camera_position": [
+		30,
+		220
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 0.8
+}

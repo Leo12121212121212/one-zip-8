@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "dripsarv idle"
+		},
+		{
+			"offsets": [
+				121,
+				-93
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dripsarv left"
+		},
+		{
+			"offsets": [
+				-40,
+				-63
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dripsarv down"
+		},
+		{
+			"offsets": [
+				100,
+				-2
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dripsarv up"
+		},
+		{
+			"offsets": [
+				1,
+				-141
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dripsarv right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dripsarv",
+	"position": [
+		170,
+		-40
+	],
+	"healthicon": "icon-sarv sel",
+	"flip_x": false,
+	"healthbar_colors": [
+		221,
+		92,
+		153
+	],
+	"camera_position": [
+		-140,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

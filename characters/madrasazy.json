@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "madrasazy idle"
+		},
+		{
+			"offsets": [
+				-31,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "madrasazy left"
+		},
+		{
+			"offsets": [
+				-4,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "madrasazy down"
+		},
+		{
+			"offsets": [
+				-14,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "madrasazy right"
+		},
+		{
+			"offsets": [
+				-17,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "madrasazy up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/madrasazy",
+	"position": [
+		-140,
+		-200
+	],
+	"healthicon": "icon-sel ras",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		120,
+		135
+	],
+	"camera_position": [
+		-160,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

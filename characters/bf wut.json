@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				215,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP wth"
+		},
+		{
+			"offsets": [
+				210,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT wth"
+		},
+		{
+			"offsets": [
+				268,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT wth"
+		},
+		{
+			"offsets": [
+				249,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN wth"
+		},
+		{
+			"offsets": [
+				257,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF wth idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf wut",
+	"position": [
+		265,
+		350
+	],
+	"healthicon": "icon-bf def",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		240,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

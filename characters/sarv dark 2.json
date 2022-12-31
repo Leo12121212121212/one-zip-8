@@ -1,0 +1,162 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SarvDarkIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SarvDarkUp2",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-41
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SarvDarkDown2",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			]
+		},
+		{
+			"offsets": [
+				143,
+				-58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			],
+			"name": "SarvDarkRight2"
+		},
+		{
+			"offsets": [
+				79,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			],
+			"name": "SarvDarkLeft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sarv dark 2",
+	"position": [
+		153,
+		-50
+	],
+	"healthicon": "icon-sarv duo",
+	"flip_x": false,
+	"healthbar_colors": [
+		221,
+		112,
+		173
+	],
+	"camera_position": [
+		-80,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

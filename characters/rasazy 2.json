@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "rasazy idle"
+		},
+		{
+			"offsets": [
+				-15,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "rasazy down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "rasazy up"
+		},
+		{
+			"offsets": [
+				-8,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "rasazy right"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "rasazy left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rasazy",
+	"position": [
+		-140,
+		-200
+	],
+	"healthicon": "icon-kruv ras",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		120,
+		135
+	],
+	"camera_position": [
+		-160,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

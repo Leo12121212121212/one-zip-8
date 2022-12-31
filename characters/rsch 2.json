@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rsch i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rsch u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rsch r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rsch l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rsch d",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rsch",
+	"position": [
+		-360,
+		-580
+	],
+	"healthicon": "icon-ruv rsch",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		120,
+		160
+	],
+	"camera_position": [
+		-20,
+		310
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

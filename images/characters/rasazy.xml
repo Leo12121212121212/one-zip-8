@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rasazy.png"><SubTexture name="rasazy idle0000" x="1926" y="0" width="378" height="721" frameX="-285" frameY="-261" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy idle0001" x="1926" y="721" width="374" height="721" frameX="-289" frameY="-261" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy idle0002" x="1555" y="0" width="371" height="723" frameX="-292" frameY="-259" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy idle0003" x="1149" y="733" width="373" height="724" frameX="-292" frameY="-258" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy idle0004" x="774" y="733" width="375" height="725" frameX="-292" frameY="-257" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy down0000" x="1481" y="1461" width="364" height="660" frameX="-296" frameY="-321" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy down0001" x="1119" y="1461" width="362" height="667" frameX="-299" frameY="-314" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy down0002" x="1555" y="723" width="362" height="668" frameX="-301" frameY="-313" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy down0003" x="1555" y="723" width="362" height="668" frameX="-301" frameY="-313" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy down0004" x="1555" y="723" width="362" height="668" frameX="-301" frameY="-313" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy left0000" x="1169" y="0" width="386" height="728" frameX="-283" frameY="-255" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy left0001" x="0" y="733" width="383" height="728" frameX="-288" frameY="-255" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy left0002" x="383" y="733" width="391" height="727" frameX="-281" frameY="-256" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy left0003" x="383" y="733" width="391" height="727" frameX="-281" frameY="-256" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy left0004" x="383" y="733" width="391" height="727" frameX="-281" frameY="-256" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy right0000" x="745" y="1461" width="374" height="692" frameX="-313" frameY="-283" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy right0001" x="0" y="1461" width="373" height="703" frameX="-314" frameY="-272" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy right0002" x="373" y="1461" width="372" height="703" frameX="-316" frameY="-272" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy right0003" x="373" y="1461" width="372" height="703" frameX="-316" frameY="-272" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy right0004" x="373" y="1461" width="372" height="703" frameX="-316" frameY="-272" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy up0000" x="0" y="0" width="389" height="733" frameX="-289" frameY="-249" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy up0001" x="778" y="0" width="391" height="731" frameX="-288" frameY="-251" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy up0002" x="389" y="0" width="389" height="732" frameX="-290" frameY="-250" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy up0003" x="389" y="0" width="389" height="732" frameX="-290" frameY="-250" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="rasazy up0004" x="389" y="0" width="389" height="732" frameX="-290" frameY="-250" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dripsarv.png"><SubTexture name="dripsarv idle0000" x="1119" y="739" width="404" height="733" frameX="0" frameY="-19" frameWidth="404" frameHeight="752" />
+<SubTexture name="dripsarv idle0001" x="808" y="0" width="404" height="737" frameX="0" frameY="-15" frameWidth="404" frameHeight="752" />
+<SubTexture name="dripsarv idle0002" x="1212" y="0" width="404" height="737" frameX="0" frameY="-15" frameWidth="404" frameHeight="752" />
+<SubTexture name="dripsarv idle0003" x="0" y="0" width="404" height="739" frameX="0" frameY="-13" frameWidth="404" frameHeight="752" />
+<SubTexture name="dripsarv idle0004" x="404" y="0" width="404" height="739" frameX="0" frameY="-13" frameWidth="404" frameHeight="752" />
+<SubTexture name="dripsarv up0000" x="0" y="739" width="372" height="736" frameX="-23" frameY="-5" frameWidth="427" frameHeight="742" />
+<SubTexture name="dripsarv up0001" x="372" y="739" width="372" height="736" frameX="-23" frameY="-5" frameWidth="427" frameHeight="742" />
+<SubTexture name="dripsarv up0002" x="744" y="739" width="375" height="735" frameX="-21" frameY="-6" frameWidth="427" frameHeight="742" />
+<SubTexture name="dripsarv up0003" x="1616" y="0" width="374" height="731" frameX="-22" frameY="-10" frameWidth="427" frameHeight="742" />
+<SubTexture name="dripsarv right0000" x="1222" y="2127" width="617" height="611" frameX="-1" frameY="-12" frameWidth="625" frameHeight="625" />
+<SubTexture name="dripsarv right0001" x="610" y="2127" width="612" height="612" frameX="-1" frameY="-11" frameWidth="625" frameHeight="625" />
+<SubTexture name="dripsarv right0002" x="0" y="2127" width="610" height="614" frameX="-1" frameY="-9" frameWidth="625" frameHeight="625" />
+<SubTexture name="dripsarv right0003" x="2356" y="0" width="608" height="615" frameX="-1" frameY="-8" frameWidth="625" frameHeight="625" />
+<SubTexture name="dripsarv left0000" x="1612" y="1475" width="538" height="651" frameX="0" frameY="-1" frameWidth="569" frameHeight="652" />
+<SubTexture name="dripsarv left0001" x="0" y="1475" width="536" height="652" frameX="-2" frameY="0" frameWidth="569" frameHeight="652" />
+<SubTexture name="dripsarv left0002" x="536" y="1475" width="538" height="652" frameX="0" frameY="0" frameWidth="569" frameHeight="652" />
+<SubTexture name="dripsarv left0003" x="1074" y="1475" width="538" height="652" frameX="0" frameY="0" frameWidth="569" frameHeight="652" />
+<SubTexture name="dripsarv down0000" x="1616" y="731" width="366" height="669" frameX="0" frameY="-13" frameWidth="370" frameHeight="682" />
+<SubTexture name="dripsarv down0001" x="1990" y="0" width="366" height="657" frameX="0" frameY="-25" frameWidth="370" frameHeight="682" />
+<SubTexture name="dripsarv down0002" x="2356" y="615" width="370" height="586" frameX="0" frameY="-96" frameWidth="370" frameHeight="682" />
+<SubTexture name="dripsarv down0003" x="2356" y="1201" width="370" height="581" frameX="0" frameY="-101" frameWidth="370" frameHeight="682" />
+</TextureAtlas>

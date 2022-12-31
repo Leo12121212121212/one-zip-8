@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="selucifer.png">
+<SubTexture name="selucifer idle0000" x="1015" y="1068" width="1138" height="1031" frameX="-153" frameY="-300" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="selucifer idle0001" x="2243" y="1058" width="1463" height="1048" frameX="-26" frameY="-286" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="selucifer idle0002" x="2243" y="0" width="1475" height="1058" frameX="0" frameY="-280" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="selucifer idle0003" x="0" y="0" width="1449" height="1068" frameX="-46" frameY="-273" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="selucifer idle0004" x="1449" y="0" width="794" height="1068" frameX="-343" frameY="-273" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="selucifer idle0005" x="0" y="1068" width="1015" height="1068" frameX="-214" frameY="-273" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="selucifer right0000" x="2668" y="3160" width="1147" height="1006" frameX="-172" frameY="-333" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="selucifer right0001" x="3718" y="0" width="1138" height="1012" frameX="-173" frameY="-327" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="selucifer right0002" x="2539" y="2136" width="1117" height="1014" frameX="-183" frameY="-325" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="selucifer down0000" x="4856" y="2980" width="1230" height="963" frameX="-150" frameY="-347" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="selucifer down0001" x="4856" y="1996" width="1218" height="984" frameX="-159" frameY="-335" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="selucifer down0002" x="4856" y="1000" width="1237" height="996" frameX="-142" frameY="-330" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="selucifer left0000" x="0" y="3160" width="1213" height="1010" frameX="-24" frameY="-329" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="selucifer left0001" x="1285" y="2136" width="1254" height="1020" frameX="-11" frameY="-319" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="selucifer left0002" x="0" y="2136" width="1285" height="1024" frameX="0" frameY="-315" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="selucifer up0000" x="1213" y="3160" width="1455" height="1009" frameX="-11" frameY="-290" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="selucifer up0001" x="4856" y="0" width="1461" height="1000" frameX="-7" frameY="-296" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="selucifer up0002" x="0" y="4170" width="1475" height="999" frameX="0" frameY="-298" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

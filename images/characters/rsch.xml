@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rsch.png"><SubTexture name="rsch i0000" x="2385" y="2126" width="535" height="1039" frameX="-487" frameY="-411" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch i0001" x="1251" y="2126" width="535" height="1043" frameX="-487" frameY="-407" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch i0002" x="2521" y="1047" width="533" height="1045" frameX="-489" frameY="-405" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch i0003" x="1895" y="1077" width="533" height="1047" frameX="-489" frameY="-403" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch i0004" x="2521" y="0" width="533" height="1047" frameX="-489" frameY="-403" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch d0000" x="607" y="3173" width="608" height="982" frameX="-442" frameY="-474" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch d0001" x="0" y="3173" width="607" height="988" frameX="-443" frameY="-468" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch d0002" x="3652" y="0" width="601" height="989" frameX="-449" frameY="-467" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch d0003" x="2920" y="2126" width="599" height="990" frameX="-451" frameY="-466" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch l0000" x="1786" y="2126" width="599" height="1042" frameX="-340" frameY="-408" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch l0001" x="3054" y="1047" width="598" height="1046" frameX="-341" frameY="-404" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch l0002" x="653" y="2126" width="598" height="1046" frameX="-341" frameY="-404" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch l0003" x="3054" y="0" width="598" height="1047" frameX="-341" frameY="-403" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch r0000" x="0" y="2126" width="653" height="1047" frameX="-394" frameY="-404" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch r0001" x="626" y="1077" width="635" height="1048" frameX="-409" frameY="-403" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch r0002" x="1261" y="1077" width="634" height="1048" frameX="-413" frameY="-403" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch r0003" x="0" y="1077" width="626" height="1049" frameX="-420" frameY="-402" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch u0000" x="0" y="0" width="630" height="1077" frameX="-392" frameY="-373" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch u0001" x="630" y="0" width="630" height="1076" frameX="-392" frameY="-374" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch u0002" x="1260" y="0" width="630" height="1073" frameX="-392" frameY="-377" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="rsch u0003" x="1890" y="0" width="631" height="1073" frameX="-391" frameY="-377" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

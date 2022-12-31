@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Ruvdaddy.png"><SubTexture name="Ruvdaddy idle0000" x="1432" y="1201" width="472" height="1180" frameX="-554" frameY="-286" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy idle0001" x="961" y="1201" width="471" height="1185" frameX="-554" frameY="-281" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy idle0002" x="490" y="1201" width="471" height="1188" frameX="-554" frameY="-278" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy idle0003" x="1941" y="0" width="471" height="1191" frameX="-554" frameY="-275" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy idle0004" x="980" y="0" width="471" height="1193" frameX="-554" frameY="-273" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy down0000" x="3434" y="1169" width="471" height="1165" frameX="-554" frameY="-301" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy down0001" x="2412" y="1173" width="471" height="1172" frameX="-554" frameY="-294" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy down0002" x="2412" y="0" width="471" height="1173" frameX="-554" frameY="-293" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy down0003" x="1904" y="1201" width="471" height="1175" frameX="-554" frameY="-291" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy left0000" x="0" y="2391" width="560" height="1164" frameX="-465" frameY="-302" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy left0001" x="2883" y="0" width="551" height="1170" frameX="-474" frameY="-296" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy left0002" x="3434" y="0" width="549" height="1169" frameX="-476" frameY="-297" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy left0003" x="2883" y="1170" width="545" height="1170" frameX="-480" frameY="-296" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy right0000" x="2390" y="2391" width="609" height="1145" frameX="-519" frameY="-321" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy right0001" x="1782" y="2391" width="608" height="1153" frameX="-519" frameY="-313" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy right0002" x="1172" y="2391" width="610" height="1156" frameX="-519" frameY="-310" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy right0003" x="560" y="2391" width="612" height="1158" frameX="-519" frameY="-308" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy up0000" x="0" y="0" width="490" height="1201" frameX="-534" frameY="-266" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy up0001" x="490" y="0" width="490" height="1196" frameX="-534" frameY="-271" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy up0002" x="1451" y="0" width="490" height="1193" frameX="-534" frameY="-274" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="Ruvdaddy up0003" x="0" y="1201" width="490" height="1190" frameX="-534" frameY="-277" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

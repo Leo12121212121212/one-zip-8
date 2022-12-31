@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dripruv.png"><SubTexture name="dripruv i0000" x="1334" y="863" width="334" height="842" frameX="0" frameY="-20" frameWidth="338" frameHeight="862" />
+<SubTexture name="dripruv i0001" x="998" y="863" width="336" height="849" frameX="0" frameY="-13" frameWidth="338" frameHeight="862" />
+<SubTexture name="dripruv i0002" x="663" y="863" width="335" height="851" frameX="-1" frameY="-11" frameWidth="338" frameHeight="862" />
+<SubTexture name="dripruv i0003" x="329" y="863" width="334" height="854" frameX="-2" frameY="-8" frameWidth="338" frameHeight="862" />
+<SubTexture name="dripruv i0004" x="0" y="863" width="329" height="855" frameX="-2" frameY="-7" frameWidth="338" frameHeight="862" />
+<SubTexture name="dripruv l0000" x="0" y="1718" width="415" height="813" frameX="-5" frameY="-10" frameWidth="420" frameHeight="823" />
+<SubTexture name="dripruv l0001" x="1800" y="815" width="414" height="814" frameX="-5" frameY="-9" frameWidth="420" frameHeight="823" />
+<SubTexture name="dripruv l0002" x="1800" y="0" width="414" height="815" frameX="-5" frameY="-8" frameWidth="420" frameHeight="823" />
+<SubTexture name="dripruv l0003" x="415" y="1718" width="414" height="813" frameX="-5" frameY="-10" frameWidth="420" frameHeight="823" />
+<SubTexture name="dripruv r0000" x="2214" y="0" width="606" height="814" frameX="-2" frameY="0" frameWidth="610" frameHeight="814" />
+<SubTexture name="dripruv r0001" x="1433" y="1718" width="605" height="812" frameX="-3" frameY="-2" frameWidth="610" frameHeight="814" />
+<SubTexture name="dripruv r0002" x="2214" y="814" width="604" height="814" frameX="-4" frameY="0" frameWidth="610" frameHeight="814" />
+<SubTexture name="dripruv r0003" x="829" y="1718" width="604" height="813" frameX="-4" frameY="-1" frameWidth="610" frameHeight="814" />
+<SubTexture name="dripruv d0000" x="2820" y="1306" width="440" height="651" frameX="-11" frameY="-44" frameWidth="456" frameHeight="695" />
+<SubTexture name="dripruv d0001" x="2820" y="654" width="440" height="652" frameX="-11" frameY="-43" frameWidth="456" frameHeight="695" />
+<SubTexture name="dripruv d0002" x="2038" y="1718" width="441" height="654" frameX="-10" frameY="-41" frameWidth="456" frameHeight="695" />
+<SubTexture name="dripruv d0003" x="2820" y="0" width="442" height="654" frameX="-9" frameY="-41" frameWidth="456" frameHeight="695" />
+<SubTexture name="dripruv u0000" x="0" y="0" width="450" height="863" frameX="0" frameY="0" frameWidth="474" frameHeight="866" />
+<SubTexture name="dripruv u0001" x="450" y="0" width="450" height="863" frameX="0" frameY="0" frameWidth="474" frameHeight="866" />
+<SubTexture name="dripruv u0002" x="900" y="0" width="450" height="863" frameX="0" frameY="0" frameWidth="474" frameHeight="866" />
+<SubTexture name="dripruv u0003" x="1350" y="0" width="450" height="863" frameX="0" frameY="0" frameWidth="474" frameHeight="866" />
+</TextureAtlas>
